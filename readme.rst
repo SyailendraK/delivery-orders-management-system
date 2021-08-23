@@ -1,4 +1,4 @@
-Deployed on Oracle Cloud Service : http://129.213.160.63/
+Deployed on Oracle Cloud Service (development only) : http://129.213.160.63/
 
 ###################
 What is CodeIgniter
